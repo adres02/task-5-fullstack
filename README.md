@@ -14,7 +14,20 @@ Tujuan : Membangun rest api dan oauth token menggunakan laravel framework serta 
 5. Gunakan relasi eloquent pada table posts dan categories
 6. Gunakan pagination pada api list all posts
 7. Buatlah unit testing untuk setiap api posts
-8. Untuk table yang digunakan silahkan refer pada link ini https://docs.google.com/document/d/18vr7dMZNmxeiT_CS6ofRTik8YygBraRvl0vscNXpRbQ/edit?usp=sharing
+8. Untuk table yang digunakan silahkan refer pada link ini https://docs.google.com/document/d/18vr7dMZNmxeiT_CS6ofRTik8YygBraRvl0vscNXpRbQ/edit?usp=sharing atau
+Tabel Articles
+  - id
+  - title
+  - content
+  - image
+  - user_id
+  - category_id
+
+Tabel Categories
+  - id
+  - name
+  - user_id
+
 
 
 
